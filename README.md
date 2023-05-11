@@ -1,4 +1,4 @@
-# A simple TodoList (typeScript, React)
+# Simple TodoList (typeScript, React)
 
 Hello friend.
 This project has no styles.
@@ -12,7 +12,7 @@ You can create/delete lists.
 
 uuid - to create a random UUID (id)
 
-###`npm install uuid`
+### `npm install uuid`
 
 ## Available Scripts
 
